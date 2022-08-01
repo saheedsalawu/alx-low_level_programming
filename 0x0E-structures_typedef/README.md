@@ -1,0 +1,1 @@
+All about typedef structure
